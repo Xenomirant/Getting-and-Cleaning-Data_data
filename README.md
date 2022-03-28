@@ -1,7 +1,7 @@
 # Getting and Cleaning Data_data
  Repository for the task associated with the Getting and Cleaning Data course
 
-##Files
+## Files
 CodeBook.md a code book that describes the variables, the data, and any transformations or work that were performed in order to clean up the data
 
 run_analysis.R is a script for the data preparation followed by the 5 steps required as described in the course project’s definition:
@@ -11,5 +11,5 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names. 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##Output
+## Output
 output_data.txt is the exported data after going through all the steps described above.
